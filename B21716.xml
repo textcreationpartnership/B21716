@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Court at Whitehall February the third, 1674/5. Present, the Kings most Excellent Majesty His Highness Prince Rupert ... [27 others] Mr Speaker. His Majesty was this day pleased in Council to command, that the following orders and resolutions should be forthwith printed and made publick. His Majesty was pleased this day in council to declare, that he found it necessary that the laws which were made for the safety and preservation both of church and state, should be put in execution with more care and diligence then of late they have been;...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21716</idno><idno type="EEBO-CITATION">99883449_193966</idno>
+  <idno type="VID">193966</idno>
+  <idno type="EEBO-PROQUEST">2264205165</idno>
+  
+            <idno type="STC">Wing E809</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[104]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[164]</idno>
+            <idno type="STC">ESTC R208059</idno>
+            <idno type="PROQUEST">ocm99883449</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883449e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193966)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C18:2[104]; C29:2[164])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Court at Whitehall February the third, 1674/5. Present, the Kings most Excellent Majesty His Highness Prince Rupert ... [27 others] Mr Speaker. His Majesty was this day pleased in Council to command, that the following orders and resolutions should be forthwith printed and made publick. His Majesty was pleased this day in council to declare, that he found it necessary that the laws which were made for the safety and preservation both of church and state, should be put in execution with more care and diligence then of late they have been;...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Assigns of John Bill and Christopher Barker, Printers to the Kings most Excellent Majesty.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674/5. [i.e. 1675].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Convictions of popish recusants to be encouraged"--Steele.</note>
+                  <note>Signed: Robert Southwell.</note>
+                  <note>Initial; Steele notation: which certified 2) or encourage-; Arms 90.</note>
+                  <note>Imperfect: copy at reel C29:2[164] is filmed with last line of first sheet, and first line of second sheet obscured by close binding.</note>
+                  <note>Filmed copy at C18:2[104] consists of one uncut sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <head>
+               <pb facs="tcp:193966:1"/>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+               <hi>At the Court at WHITEHALL <hi>February</hi> the Third,</hi> 1674/5.</head>
+            <list>
+               <head>Present,</head>
+               <item>The Kings most Excellent Majesty</item>
+               <item>His Highness Prince Rupert</item>
+               <item>Lord Keeper</item>
+               <item>Lord Treasurer</item>
+               <item>Lord Privy Seal</item>
+               <item>Duke of Monmouth</item>
+               <item>Duke of Lauderdale</item>
+               <item>Marquis of Worcester</item>
+               <item>Marquis of Dorchester</item>
+               <item>Earl of Ogle</item>
+               <item>Earl of O<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sory</item>
+               <item>Lord Great Chamberlain</item>
+               <item>Earl of Peterborough</item>
+               <item>Earl of Sunderland</item>
+               <item>Earl of S<seg rend="sup">t</seg> Alban</item>
+               <item>Earl of Bathe</item>
+               <item>Earl of Craven</item>
+               <item>Earl of Carbery</item>
+               <item>Viscount Fauconberg</item>
+               <item>Lord Maynard</item>
+               <item>Lord Newport</item>
+               <item>Lord Berkeley</item>
+               <item>M<seg rend="sup">r</seg> Vice-Chamberlain</item>
+               <item>M<seg rend="sup">r</seg> Secretary Coventry</item>
+               <item>M<seg rend="sup">r</seg> Secretary Williamson</item>
+               <item>M<seg rend="sup">r</seg> Montagu</item>
+               <item>M<seg rend="sup">r</seg> Chancellor of the Exchequer</item>
+               <item>M<seg rend="sup">r</seg> Chancellor of the Dutchy</item>
+               <item>Master of the Ordnance</item>
+               <item>M<seg rend="sup">r</seg> Speaker.</item>
+            </list>
+            <p>
+               <hi>HIs Majesty was this day pleased in Council to Command, That the following Orders and Resolutions should be forthwith Printed and made Publick.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty was pleased this day in Council to Declare, That he found it necessary that the Laws which were made for the Safety and Preservation both of Church and State, should be put in Excecution with more care and diligence then of late they have been; and that having long since commanded His Iudges to do their Duty herein, He had also lately advis'd with several of His Bishops, and upon due Considera<g ref="char:EOLhyphen"/>tion of the whole matter, had Resolved, and doth therefore Order,</p>
+            <p n="1">I. That the Convictions of Popish Recusants be encouraged, quickned, and made effectual; and to this end His Majesties Attorney General is required forthwith to inform himself what Convictions are already certified into the Exchequer, and to cause spéedy Process to issue upon them. And it is further Ordered, That Letters be forthwith sent from this Boord directed to the Iustices of Peace within the several Counties, Cities and Pla<g ref="char:EOLhyphen"/>ces of this Realm, thereby requiring them with all spéed to certifie into the Exchequer such Convictions as are perfected, and to certifie His Majesties Attorney General what Convictions of Popish Recusants are preparing, and what hinders the com<g ref="char:EOLhyphen"/>pleating of them, and whether any Persons of Quality who are suspected to be Popish Recusants have been omitted to be Presented, and what Obstructions they find therein; And His Majesty Declares, that upon due information thereof, care shall be taken that they may be speédily removed.</p>
+            <p n="2">II. And His Majesty doth Declare His further <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Persons, of what Quality or Condition soever he be, do presume to say Mass in any part of this Kingdom, the Chappels of the Queens Majesty, and the Chappels of Foreign Ministers only excepted: And to prevent all extraordinary Resort to those Chappels, It is further Ordered and Declared, That if any person or persons shall presume to repair to those Chap<g ref="char:EOLhyphen"/>pels, not being a Menial Servant of Her Majesty, or of such Foreign Ministers, and shall there willingly hear Mass, eve<g ref="char:EOLhyphen"/>ry such Offender shall suffer the forfeiture of One hundred Marks, and One Years Imprisonment, as by Law is provided. And for the better discovery of such Offenders, His Majesties Third part of the said Penalty shall be also given to the Informer, for his further Reward and Encouragement. And moreover, all Officers are required to apprehend such Offen<g ref="char:EOLhyphen"/>ders, and to cause them to be examined and procéeded with according to Law. And all Mayors, Iustices of Peace, and other Officers and Ministers to whom it shall or may appertain, are also Ordered and Required to cause diligent Search and Enquiry to be made into all other Places, where they shall hear or suspect that Mass is privately celebrated, to the end that the Offenders may be brought to Condigne punishment.</p>
+            <p n="3">III. And His Majesty doth Command and forewarn all Persons born within any of His Majesties Dominions, who have taken Orders by any authority derived from the Church or See of <hi>Rome,</hi> and are now remaining in any part of this King<g ref="char:EOLhyphen"/>dom, and out of Prison (except Mr. <hi>John Huddleston,</hi> who was eminently serviceable to His Majesty in His Escape from <hi>Worcester)</hi> that they depart the Realm before the Five and twentieth day of <hi>March</hi> next ensuing, and that they presume not to return again, nor any other such Priests to come over after that day; His Majesty declaring, that He will cause the ut<g ref="char:EOLhyphen"/>most penalties of the Law to be inflicted upon the Contemners of this His Command; And Mr. Attorney General is requi<g ref="char:EOLhyphen"/>red to prepare a Proclamation accordingly. And His Majesty doth also Command all such Priests, who have taken such Orders, and do pretend a priviledge to attend upon the Quéens Majesty, or upon Foreign Ministers, to depart this King<g ref="char:EOLhyphen"/>dom likewise by the time before appointed, and to leave the Court within Fourtéen days after Notice of this Order, whereof publication shall be forthwith made, by causing the same to be affixed upon the Court Gates, and in such other Places as shall be thought convenient.</p>
+            <p n="4">IV. And His Majesty doth further forewarn, and Command all His Subjects, that they presume not to send any person or persons to be Educated in any Popish Colledges or Seminaries beyond the Seas; And if any Notice or Information can be given of any that have been already sent, and are there still remaining, His Majesty Declares, that he will give Or<g ref="char:EOLhyphen"/>der for a Privy Seal to be directed unto them, and thereby command them to return home with all speed, as they will an<g ref="char:EOLhyphen"/>swer the contrary at their peril. And if the Parents or Guardians of such person so Educated abroad be living and within His Majesties Dominions, His Majesty will also Command such Parents or Guardians to send for their Children or Pupils home, and cause them to return, upon peril of suffering the utmost Penalties of the Law in that case provided.</p>
+            <p n="5">V. And if any of His Majesties natural born Subjects, being Papist, or reputed Papist, shall presume to come into His Majesties Palace at <hi>Whitehall,</hi> or <hi>St. James's,</hi> or into any other place where His Majesties Court shall be, contrary to His Majesties late Prohibition; His Majesty Declares, that he will punish that Contempt with Exemplary Severity, according to the quality of the Offender; who if he be a Péer of the Realm, shall be sent to the <hi>Tower,</hi> if under that quality, to some other Prison.</p>
+            <p n="6">VI. And His Majesty doth further Order, and Appoint, that effectual care be taken for the Suppression of <hi>Conventicles;</hi> And whereas divers pretend Licences from His Majesty, and would support themselves by that pretence, His Majesty De<g ref="char:EOLhyphen"/>clares, that all His Licences were long since Recalled, and that no <hi>Conventicle</hi> hath any authority, allowance, or encourage<g ref="char:EOLhyphen"/>ment from His Majesty.</p>
+            <closer>
+               <signed>ROBERT SOƲTHWELL.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John-Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1674/5.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
